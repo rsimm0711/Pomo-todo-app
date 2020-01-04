@@ -1,8 +1,9 @@
 # Pomo-todo-app
 
 This is a school project that is meant to be the basic implementation of a to-do list app. 
-It was created in Intellij, but should run in any IDE that allows you to execute files. 
-To test out the app, run the POMOTodo-App in the ui folder. ConsoleTodoApp is the console version of the app.
+It was created in Intellij, but should run in any IDE that allows you to execute the files. ALL folders/files are
+needed to run the application properly. To test out the app, run the POMOTodo-App in the ui folder. ConsoleTodoApp 
+is the console version of the app.
 
 When adding a new to-do list item, write the description in the following format: 
 
