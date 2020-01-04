@@ -6,7 +6,7 @@ To test out the app, run the POMOTodo-App in the ui folder. ConsoleTodoApp is th
 
 When adding a new to-do list item, write the description in the following format: 
 
-<description> ## <tags separated by semicolons>
+"description" ## "tags separated by semicolons"
 
 For example the description:
 
